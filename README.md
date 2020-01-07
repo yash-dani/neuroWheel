@@ -4,6 +4,9 @@ Using a Mattel MindFlex Toy (EEG sensor) in order to create a mind controlled wh
 ## Project Description:
 I'm using a cheap EEG sensor that came from the Mattel Mindflex boardgame to read brain-wave data. This will then undergo noise reduction via machine learning models. Then, a support vector machine will be used to determine if a person is thinking of moving forward, which will cause a wheelchair to start moving.
 
+![Screenshot](screenshot.jpg)
+*Above: The completed hardware (mind flex with modified circuitry + arduino) and how it rests on my head*
+
 ## Status Updates
 Last updated: January 2020
 
